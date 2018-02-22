@@ -1,0 +1,27 @@
+# OS タイムゾーン
+:timezone_abbr: JST
+
+# DNSサーバ
+:nameserver1: ip
+:nameserver2: ip
+#:nameserver1: 8.8.8.8
+#:nameserver2: 8.8.4.4
+
+# debian リポジトリサーバ
+:debian_repo: ip
+#:debian_repo: gip
+
+# centos リポジトリサーバ
+:centos_repo: ip
+#:centos_repo: gip
+
+# ldapサーバ
+:ldapserver1: ip
+:ldapserver2: ip
+
+# ntpサーバ
+:ntpserver: ip
+
+# zabbix サーバ
+:zabbixserver1: ip
+:zabbixserver2: ip

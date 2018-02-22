@@ -1,0 +1,16 @@
+debian-test: 
+  :roles:
+    - init
+cent-test: 
+  :roles:
+    - init
+#db001.example.jp:
+#  :roles:
+#    - base
+#    - db
+#  :server_id: 101
+#db002.example.jp:
+#  :roles:
+#    - base
+#    - db
+#  :server_id: 102
