@@ -1,4 +1,4 @@
-# serverspec OS初期設定確認用
+# OS初期設定確認用 Serverspec
 
 ### このserverspecでできること
 
