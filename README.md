@@ -1,6 +1,6 @@
 # serverspecサンプル
 
-## このserverspecでできること
+### このserverspecでできること
 
 - OS初期設定を実行後、想定通りに設定がされたかをテストします。
 
@@ -8,7 +8,7 @@
 
 - OSはCentOS7またはDebian8とします。
 
-## serverspecのインストール方法
+### serverspecのインストール方法
 
 - Debianの場合
 
@@ -20,7 +20,7 @@ gem install serverspec
 ```
 
 
-## 実行前の準備
+### 実行前の準備
 
 ```
 git clone https://github.com/y-araki-git/serverspec.git/init.git
@@ -59,7 +59,7 @@ cent-test:
 - 対象ノードで初期設定Ansibleを流した後、OSリブートを再実行しておくこと
 
 
-## 実行方法
+### 実行方法
 
 - 実行コマンド確認
 
@@ -83,7 +83,7 @@ cent-test:
 ```
 
 
-## 実行結果サンプル
+### 実行結果サンプル
 
 - 実行結果が正常な場合 → 緑で表示される
 
