@@ -1,4 +1,4 @@
-# serverspecサンプル
+# serverspecでOS初期設定確認サンプル
 
 ### このserverspecでできること
 
